@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello world 🌎👋
+
+#### My name is Gabriel Bassoi
+
+I like to code in Flutter and Python
+
 
 <!--
 **GabrielBassoi/GabrielBassoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
